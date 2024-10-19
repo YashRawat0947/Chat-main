@@ -12,4 +12,4 @@ services:
       - key: JWT_SECRET
         value: your_jwt_secret
       - key: CLIENT_URL
-        value: http://localhost:5173
+        value: https://chat-sooty-tau.vercel.app
