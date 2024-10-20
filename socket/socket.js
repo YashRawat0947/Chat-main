@@ -1,4 +1,3 @@
-// socket.js
 import Message from '../models/message.model.js';
 import Room from '../models/room.model.js';
 
