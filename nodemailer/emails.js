@@ -39,7 +39,7 @@ export const sendWelcomeEmail = async (email, name) => {
     subject: 'Welcome to Black Headers',
     html: `
       <p>Hello ${name},</p>
-      <p>Welcome to Black Headers!</p>
+      <p>Welcome to 3W Business Private Limited!</p>
       <p>We're excited to have you onboard.</p>
     `,
   };
